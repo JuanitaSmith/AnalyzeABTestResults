@@ -2,4 +2,4 @@
 .pyc
 __pycache__
 .ipynb_checkpoints
-*.html
+Analyze_ab_test_results_notebook.html
